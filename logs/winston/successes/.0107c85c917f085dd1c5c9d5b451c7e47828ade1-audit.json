@@ -1,0 +1,70 @@
+{
+    "keep": {
+        "days": true,
+        "amount": 14
+    },
+    "auditLog": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\.0107c85c917f085dd1c5c9d5b451c7e47828ade1-audit.json",
+    "files": [
+        {
+            "date": 1692132986207,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-16-08-02-success.log",
+            "hash": "80a6e866ab33f9389a521551b1277b81538eae3eed13a204ce0e565f49a7038f"
+        },
+        {
+            "date": 1692133788940,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-16-08-03-success.log",
+            "hash": "ddedd1831a211d7e37336771eaf54f94946d70de5c11a46c142022585fab6720"
+        },
+        {
+            "date": 1692136891509,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-16-08-04-success.log",
+            "hash": "75b1d28ab3801c1647d5692c85ead279d8c7ae9357f5975f2649d33fdf72f9b1"
+        },
+        {
+            "date": 1692177149638,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-16-08-15-success.log",
+            "hash": "5d33945788f1fcff1eefa0fd484620c34195d184ae14d793db146fcf14064c63"
+        },
+        {
+            "date": 1692198256060,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-16-08-21-success.log",
+            "hash": "dcdf95530b553db491d4e4c5e3a34448b00c6a0246395cc16e5ba17adae3cf26"
+        },
+        {
+            "date": 1692221600126,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-17-08-03-success.log",
+            "hash": "9c1f6c962f43cf820eea20bda544058971d1205e05d8362bf05c29c5ff305d2e"
+        },
+        {
+            "date": 1692265045673,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-17-08-15-success.log",
+            "hash": "e369555c4b4573f09532083754af0abaf10e2daf2bfb71f32272220263afa4f6"
+        },
+        {
+            "date": 1692275195040,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-17-08-18-success.log",
+            "hash": "a83d04b6e43fb18d4150aa3efc58d846d02e70a7e01396cf5df451945185a7c3"
+        },
+        {
+            "date": 1692277390629,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-17-08-19-success.log",
+            "hash": "b8594a409181d4316f23bae820c9b8db74ba8efb75d1c1d7bd5cd06af2584a40"
+        },
+        {
+            "date": 1692285170177,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-17-08-21-success.log",
+            "hash": "26ff6b8c7b5eacb31c05a50758cf7f937c320dd596ba77c6e47be629bcc6b12e"
+        },
+        {
+            "date": 1692302064990,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-18-08-01-success.log",
+            "hash": "50c1e45c31c3423d846fc47fc4b61e2b900039ec77b664347ab07e1733cc333f"
+        },
+        {
+            "date": 1692302401356,
+            "name": "C:\\Projects\\book_catalog_backend\\logs\\winston\\successes\\CWH-2023-18-08-02-success.log",
+            "hash": "33a74162726505b8ec9604e5e27826721923d8716325b27eab2e4817ae1fad0d"
+        }
+    ],
+    "hashType": "sha256"
+}
